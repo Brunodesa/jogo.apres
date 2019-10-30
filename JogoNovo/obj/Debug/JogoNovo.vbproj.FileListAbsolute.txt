@@ -1,0 +1,11 @@
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\bin\Debug\JogoNovo.exe.config
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\bin\Debug\JogoNovo.exe
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\bin\Debug\JogoNovo.pdb
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\bin\Debug\JogoNovo.xml
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.vbprojAssemblyReference.cache
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.Form1.resources
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.Resources.resources
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.vbproj.GenerateResource.cache
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.exe
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.xml
+C:\Users\BD1\Source\Repos\JogoNovoB\JogoNovo\obj\Debug\JogoNovo.pdb
